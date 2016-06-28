@@ -89,4 +89,17 @@
 {
 	background-color:#333331;
 	height:75px;
+	padding-top:10px;
+}
+
+.div-link
+{
+	height:50px;
+}
+
+.div-link img
+{
+	height:100%;
+	border-radius:100px;
+	border:solid #FFFFFF 3px;
 }
